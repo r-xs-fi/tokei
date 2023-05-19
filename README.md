@@ -1,2 +1,2 @@
-tokei.
+Docker container image for tokei
 
