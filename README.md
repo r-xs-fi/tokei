@@ -1,6 +1,7 @@
 Container image for Tokei - a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.
 
 ## Usage
+
 ```shell
 docker run --rm -it ghcr.io/r-xs-fi/tokei
 ```
