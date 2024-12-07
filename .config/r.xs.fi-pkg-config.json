@@ -1,5 +1,3 @@
 {
-	"not_building_for_platforms_because": {
-		"linux/riscv64": "apk package not built"
-	}
+	"supply_chain_descriptor": "alpine-package:tokei"
 }
